@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Apr 23 12:07:16 WEST 2018
+0.baseType=DIRECTORY
+0.base=/Users/pedropaixao/code/AnimationsDemo/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

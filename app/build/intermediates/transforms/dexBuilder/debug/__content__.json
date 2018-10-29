@@ -1,0 +1,1 @@
+[{"name":"android.local.jars:android-support-v13.jar:2d611b8947ff2e359f7e62f598ae334ef114d59e-0","index":0,"scopes":["EXTERNAL_LIBRARIES"],"types":["DEX_ARCHIVE"],"format":"JAR","present":true},{"name":"d9ebf332aec889c8da4946046c3b6f2399beea15","index":1,"scopes":["PROJECT"],"types":["DEX_ARCHIVE"],"format":"DIRECTORY","present":true}]
